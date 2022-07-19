@@ -37,11 +37,12 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Remove="stylecop.json" />
+      <ProjectReference Include="..\..\CSharpLibTemplateRepo\CSharpLibTemplateRepo.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\CSharpLibTemplateRepo\CSharpLibTemplateRepo.csproj" />
+      <None Remove="stylecop.json" />
+      <AdditionalFiles Include="stylecop.json" />
     </ItemGroup>
 
 </Project>
