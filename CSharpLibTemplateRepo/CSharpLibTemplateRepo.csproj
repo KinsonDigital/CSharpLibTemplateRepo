@@ -20,6 +20,9 @@
         <Copyright>Copyright ©2022 Kinson Digital</Copyright>
         <PackageTags>github data</PackageTags>
         <RootNamespace>[TODO: add project name here]</RootNamespace>
+
+        <!-- Ignore warning CS7035 about version syntax. -->
+        <NoWarn>7035</NoWarn>
     </PropertyGroup>
 
     <ItemGroup>
