@@ -55,7 +55,7 @@ If you have any questions, please reach out to a project maintainer.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg?style=flat)](code_of_conduct.md)
 ![GitHub](https://img.shields.io/github/license/kinsondigital/[TODO: add project name here])
-</dic>
+</div>
 
 **[TODO: add project name here]** is distributed under the very permissive **MIT license** and all dependencies are distributed under MIT-compatible licenses.
 This project has adopted the code of conduct defined by the **Contributor Covenant** to clarify expected behavior in our community.
