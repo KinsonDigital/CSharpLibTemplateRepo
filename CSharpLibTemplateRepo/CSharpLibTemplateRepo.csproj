@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net6.0</TargetFramework>
-        <LangVersion>10.0</LangVersion>
+        <TargetFramework>net7.0</TargetFramework>
+        <LangVersion>11.0</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
 
@@ -10,27 +10,41 @@
         <Version>1.0.0-preview.1</Version>
 
         <!--Update this for production and preview releases-->
-        <FileVersion>1.0.0-preview.1</FileVersion>        
+        <FileVersion>1.0.0-preview.1</FileVersion>
 
+        <!--
+          DO NOT UPDATE THIS FOR PREVIEW RELEASES!!
+          Visual Studio does not allow the preview syntax for this tag
+          Example: v1.2.3.preview.1 is not allowed
+        -->
+        <AssemblyVersion>1.0.0</AssemblyVersion>
         <PackageId>KinsonDigital.[TODO: add project name here]</PackageId>
         <Authors>Calvin Wilkinson</Authors>
         <Company>Kinson Digital</Company>
         <Product>[TODO: add project name here]</Product>
-        <Description>Simple library to retrieve GitHub related data.</Description>
+        <Description>[TODO: Add description here]</Description>
         <Copyright>Copyright ©2022 Kinson Digital</Copyright>
-        <PackageTags>github data</PackageTags>
+        <PackageTags>[TODO: Add tags here]</PackageTags>
         <RootNamespace>[TODO: add project name here]</RootNamespace>
+        <ApplicationIcon>velaptor-logo.ico</ApplicationIcon>
+        <PackageReleaseNotes>https://github.com/KinsonDigital/[TODO: add project name here]/blob/release/v1.0.0/Documentation/ReleaseNotes/PreviewReleases/Release-Notes-v1.0.0-preview.1.md</PackageReleaseNotes>
+        <PackageProjectUrl>https://github.com/KinsonDigital/[TODO: add project name here]</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/KinsonDigital/[TODO: add project name here]</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageIcon>[TODO: Add logo image here]</PackageIcon>
+        <Platforms>x64</Platforms>
+        <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
 
         <!-- Ignore warning CS7035 about version syntax. -->
-        <NoWarn>7035</NoWarn>
+        <NoWarn>CS7035</NoWarn>
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="6.0.0">
+        <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="7.0.0">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="RestSharp" Version="108.0.1" />
         <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -41,5 +55,5 @@
       <None Remove="stylecop.json" />
       <AdditionalFiles Include="stylecop.json" />
     </ItemGroup>
-    
+
 </Project>
