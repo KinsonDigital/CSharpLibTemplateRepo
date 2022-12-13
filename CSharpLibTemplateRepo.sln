@@ -11,7 +11,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{E204
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{67F82AED-1502-4803-855A-CDB26DC685B4}"
 	ProjectSection(SolutionItems) = preProject
-		.github\FUNDING.yml = .github\FUNDING.yml
 		README.md = README.md
 		.editorconfig = .editorconfig
 		.gitignore = .gitignore
@@ -19,25 +18,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Issue Templates", "Issue Templates", "{EC84F317-C63E-4B7E-9619-12D291701201}"
-	ProjectSection(SolutionItems) = preProject
-		.github\ISSUE_TEMPLATE\bug-issue-template.yml = .github\ISSUE_TEMPLATE\bug-issue-template.yml
-		.github\ISSUE_TEMPLATE\project-item-issue-template.yml = .github\ISSUE_TEMPLATE\project-item-issue-template.yml
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workflows", "Workflows", "{8518113E-D0C3-4E63-8F2E-542EB6D1CCE9}"
-	ProjectSection(SolutionItems) = preProject
-		.github\workflows\build-status-check.yml = .github\workflows\build-status-check.yml
-		.github\workflows\preview-release.yml = .github\workflows\preview-release.yml
-		.github\workflows\unit-testing-status-check.yml = .github\workflows\unit-testing-status-check.yml
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pull Request Templates", "Pull Request Templates", "{74273D28-BDB5-4FF0-B4E2-20A171671A58}"
-	ProjectSection(SolutionItems) = preProject
-		.github\PULL_REQUEST_TEMPLATE\feature-pr.md = .github\PULL_REQUEST_TEMPLATE\feature-pr.md
-		.github\PULL_REQUEST_TEMPLATE\preview-feature-pr.md = .github\PULL_REQUEST_TEMPLATE\preview-feature-pr.md
-		.github\PULL_REQUEST_TEMPLATE\preview-release-pr.md = .github\PULL_REQUEST_TEMPLATE\preview-release-pr.md
-		.github\PULL_REQUEST_TEMPLATE\production-release-pr.md = .github\PULL_REQUEST_TEMPLATE\production-release-pr.md
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Ignore JetBrains Rider files
 .idea
+
+# Ignore anything with the word secret
+*secret*
