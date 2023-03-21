@@ -67,36 +67,36 @@
 This library is still under development and is not at v1.0.0 yet!!  However, all of the major features are available, so we encourage you to use it and provide feedback.  That is what open source is all about. 🥳
 
 <!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">📖 About [TODO: add project name here]</h2>
+<h2 style="font-weight:bold;border:0" align="center">📖 About 📖[TODO: add project name here]</h2>
 <!--PRE-PROCESSING-COMMENT-STOP-->
 
 <!--PRE-PROCESSING-UNCOMMENT-START-->
 <!--
-## **📖 About [TODO: add project name here]**
+## **📖 About 📖[TODO: add project name here]**
 -->
 <!--PRE-PROCESSING-UNCOMMENT-STOP-->
 
 [TODO: Add about section]
 
 <!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">✨Features</h2>
+<h2 style="font-weight:bold;border:0" align="center">✨ Features ✨</h2>
 <!--PRE-PROCESSING-COMMENT-STOP-->
 
 <!--PRE-PROCESSING-UNCOMMENT-START-->
 <!--
-## **✨Features**
+## **✨Features ✨**
 -->
 <!--PRE-PROCESSING-UNCOMMENT-STOP-->
 
 [TODO: Add feature section.  If not, remove entire section]
 
 <!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">🔧Maintainers</h2>
+<h2 style="font-weight:bold;border:0" align="center">🔧 Maintainers 🔧</h2>
 <!--PRE-PROCESSING-COMMENT-STOP-->
 
 <!--PRE-PROCESSING-UNCOMMENT-START-->
 <!--
-## **🔧Maintainers**
+## **🔧 Maintainers 🔧**
 -->
 <!--PRE-PROCESSING-UNCOMMENT-STOP-->
 
@@ -104,7 +104,7 @@ This library is still under development and is not at v1.0.0 yet!!  However, all
 - [![twitter-logo](https://raw.githubusercontent.com/KinsonDigital/.github/master/Images/twitter-logo-16x16.svg)Kristen Wilkinson](https://twitter.com/kswilky) (KinsonDigital GitHub Organization - Documentation Maintainer & Tester)
 
 <!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">🙏🏼Contributing</h2>
+<h2 style="font-weight:bold;border:0" align="center">🙏🏼 Contributing 🙏🏼</h2>
 
 To learn how to contribute to the project, go [here](./CONTRIBUTING.md).
 <!--PRE-PROCESSING-COMMENT-STOP-->
@@ -146,7 +146,7 @@ To learn how to contribute to the project, go [here](https://github.com/KinsonDi
 This helps ensure the long term viability of all the projects in the organization and to [help support](https://github.com/sponsors/KinsonDigital) the project maintainers in their free time.
 
 <!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">Licensing And Governance</h2>
+<h2 style="font-weight:bold;border:0" align="center">🚔 Licensing And Governance 🚔</h2>
 <!--PRE-PROCESSING-COMMENT-STOP-->
 
 <!--PRE-PROCESSING-UNCOMMENT-START-->
