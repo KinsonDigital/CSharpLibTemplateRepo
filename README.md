@@ -90,61 +90,28 @@ This library is still under development and is not at v1.0.0 yet!!  However, all
 
 [TODO: Add feature section.  If not, remove entire section]
 
-<!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">🔧 Maintainers 🔧</h2>
-<!--PRE-PROCESSING-COMMENT-STOP-->
+<h2 style="font-weight:bold;" align="center">🙏🏼 Contributing 🙏🏼</h2>
 
-<!--PRE-PROCESSING-UNCOMMENT-START-->
-<!--
-## **🔧 Maintainers 🔧**
--->
-<!--PRE-PROCESSING-UNCOMMENT-STOP-->
-
-- [![twitter-logo](https://raw.githubusercontent.com/KinsonDigital/.github/master/Images/twitter-logo-16x16.svg)Calvin Wilkinson](https://twitter.com/KDCoder) (KinsonDigital GitHub Organization - Owner)
-- [![twitter-logo](https://raw.githubusercontent.com/KinsonDigital/.github/master/Images/twitter-logo-16x16.svg)Kristen Wilkinson](https://twitter.com/kswilky) (KinsonDigital GitHub Organization - Documentation Maintainer & Tester)
-
-<!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">🙏🏼 Contributing 🙏🏼</h2>
-
-To learn how to contribute to the project, go [here](./CONTRIBUTING.md).
-<!--PRE-PROCESSING-COMMENT-STOP-->
-
-<!--PRE-PROCESSING-UNCOMMENT-START-->
-<!--
-## **🙏🏼Contributing**
-
-To learn how to contribute to the project, go [here](https://github.com/KinsonDigital/[TODO: add project name here]/blob/release/v1.0.0/CONTRIBUTING.md).
--->
-<!--PRE-PROCESSING-UNCOMMENT-STOP-->
+Interested in contributing? If so, click [here](https://github.com/KinsonDigital/.github/blob/master/docs/CONTRIBUTING.md) to learn how to contribute your time or [here](https://github.com/sponsors/KinsonDigital) if you are interested in contributing your funds via one-time or recurring donation.
 
 
-**[TODO: add project name here]** and all of the [KinsonDigital](https://github.com/KinsonDigital) organization projects require significant effort to maintain, as such we greatly appreciate any financial support you are able to provide!
-This helps ensure the long term viability of all the projects in the organization and to [help support](https://github.com/sponsors/KinsonDigital) the project maintainers in their free time.
+<h2 style="font-weight:bold;" align="center">🔧 Maintainers 🔧</h2>
 
-<!--PRE-PROCESSING-COMMENT-START-->
-<h2 style="font-weight:bold;border:0" align="center">🚔 Licensing And Governance 🚔</h2>
-<!--PRE-PROCESSING-COMMENT-STOP-->
+  [![twitter-logo](https://raw.githubusercontent.com/KinsonDigital/.github/master/Images/twitter-logo-16x16.svg)Calvin Wilkinson](https://twitter.com/KDCoder) (KinsonDigital GitHub Organization - Owner)
 
-<!--PRE-PROCESSING-UNCOMMENT-START-->
-<!--
-## **Licensing And Governance**
--->
-<!--PRE-PROCESSING-UNCOMMENT-STOP-->
+  [![twitter-logo](https://raw.githubusercontent.com/KinsonDigital/.github/master/Images/twitter-logo-16x16.svg)Kristen Wilkinson](https://twitter.com/kswilky) (KinsonDigital GitHub Organization - Project Management, Documentation, Tester)
 
-<!--PRE-PROCESSING-COMMENT-START-->
+<br/>
+
+<h2 style="font-weight:bold;" align="center">🚔 Licensing And Governance 🚔</h2>
+
+
 <div align="center">
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg?style=flat)](code_of_conduct.md)
-![GitHub](https://img.shields.io/github/license/kinsondigital/[TODO: add project name here])
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg?style=flat)](https://github.com/KinsonDigital/.github/blob/master/docs/code_of_conduct.md)
+[![GitHub](https://img.shields.io/github/license/kinsondigital/CASL)](https://github.com/KinsonDigital/TODO: ADD REPO NAME/blob/release/v1.0.0/LICENSE.md)
 </div>
-<!--PRE-PROCESSING-COMMENT-STOP-->
 
-<!--PRE-PROCESSING-UNCOMMENT-START-->
-<!--
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg?style=flat)](code_of_conduct.md)
-![GitHub](https://img.shields.io/github/license/kinsondigital/[TODO: add project name here])
--->
-<!--PRE-PROCESSING-UNCOMMENT-STOP-->
 
-**[TODO: add project name here]** is distributed under the very permissive **MIT license** and all dependencies are distributed under MIT-compatible licenses.
+This software is distributed under the very permissive MIT license and all dependencies are distributed under MIT-compatible licenses.
 This project has adopted the code of conduct defined by the **Contributor Covenant** to clarify expected behavior in our community.
